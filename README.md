@@ -11,11 +11,3 @@ This simple Python script reads a CSV file containing S3 bucket names and object
 ## Requirements
 
 - Python 3.x (no external dependencies)
-
-## Setup
-
-Clone the repo and ensure you're running Python 3.
-
-```bash
-git clone https://github.com/yourusername/aws-encoder.git
-cd aws-encoder
